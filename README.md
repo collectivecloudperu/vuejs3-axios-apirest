@@ -1,2 +1,2 @@
-# Como Consumir Una Api Rest En Vue 3 con Axios
+# Como Consumir Una API REST En Vue 3 con Axios
 Tutorial: 
